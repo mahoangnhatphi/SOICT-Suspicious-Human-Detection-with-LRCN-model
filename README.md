@@ -4,7 +4,7 @@
 
 Fig. 4 illustrates the overall structure of the system, from video input to classification output.
 <p align="center">
-  <img src="https://github.com/mahoangnhatphi/suspicious-human-detection-with-LRCN-model/blob/main/Figure/Figure04.jpg?raw=true" />
+  <img src="https://github.com/mahoangnhatphi/SOICT-Suspicious-Human-Detection-with-LRCN-model/blob/main/Figure/Figure04.jpg?raw=true" />
 </p>
 
 The system architecture follows a standard flow:
