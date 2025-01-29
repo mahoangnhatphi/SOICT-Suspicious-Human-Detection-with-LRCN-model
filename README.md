@@ -1,5 +1,7 @@
-# International Symposium on Information and Communication Technology
-## Reference data for the 13th International Symposium on Information and Communication Technology (SOICT 2024),
+
+## Intelligent Data Analysis
+#### An International Journal
+
 ## "ENHANCED REAL-TIME SURVEILLANCE WITH LRCN: AUTOMATING SUSPICIOUS ACTIVITY DETECTION FOR SCALABLE SECURITY SOLUTIONS IN VIETNAM"
 
 Fig. 4 illustrates the overall structure of the system, from video input to classification output.
